@@ -7,7 +7,7 @@
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css.png" width="120" alt="CSS">
   <img src="https://img.icons8.com/color/2x/git.png" width="120" alt="git">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript"> 
 </table>
 <div> 
   <a href="https://www.instagram.com/_leehxd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
