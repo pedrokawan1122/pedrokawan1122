@@ -5,10 +5,6 @@
   
  Comecei na área de desenvolvimento e programação a alguns mêses via cursos da Udemy, pretendo me especializar na área o mais rapido possivel!
   Atualmente estou familiarizado com HTML5, CSS e JS. Pretendo continuar os estudos seguindo em JS e NodeJS para depois prosseguir em c#.
-<!---
-pedrokawan1122/pedrokawan1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <div align="center">
   <a href="https://github.com/pedrokawan1122">
