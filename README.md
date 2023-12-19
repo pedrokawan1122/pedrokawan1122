@@ -11,4 +11,5 @@
 <div> 
   <a href="https://www.instagram.com/_leehxd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: pedrokawan061122@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <iframe src="https://giphy.com/embed/ZdIsDM5BNd61QWnulr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/marketingvvs-tv-chris-hates-ZdIsDM5BNd61QWnulr">via GIPHY</a></p>
 </div>
