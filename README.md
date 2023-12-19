@@ -1,6 +1,7 @@
 # HELLO WORLD, MY NAME IS PEDRO,BE VERY WELCOME
 <table>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrokawan1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/pedrokawan1122">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokawan1122&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css.png" width="120" alt="CSS">
