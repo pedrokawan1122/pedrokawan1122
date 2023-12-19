@@ -18,13 +18,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,git,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,git,c#" />
   </a>
 </p>
   
 <div align="center"> 
   <a href="https://www.instagram.com/_pedro.souz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- 
-
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
