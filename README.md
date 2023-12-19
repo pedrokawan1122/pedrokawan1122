@@ -11,5 +11,6 @@
 <div> 
   <a href="https://www.instagram.com/_leehxd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: pedrokawan061122@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <div style="padding-top:58.824%;position:relative;"><iframe src="https://gifer.com/embed/2wFz" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
+<iframe src="https://gifer.com/embed/6mso" width=480 height=271.500 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
+  <div style="padding-top:56.563%;position:relative;"><iframe src="https://gifer.com/embed/6mso" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
 </div>
