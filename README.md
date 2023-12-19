@@ -1,22 +1,16 @@
- <details>
- <summary>Um pouco sobre mim!
-  
- Ola, me chamo Pedro Kawan.
-  
- Comecei na área de desenvolvimento e programação a alguns mêses via cursos da Udemy, pretendo me especializar na área o mais rapido possivel!
-  Atualmente estou familiarizado com HTML5, CSS e JS. Pretendo continuar os estudos seguindo em JS e NodeJS para depois prosseguir em c#.
-
-<div align="center">
+ 
+<table>
   <a href="https://github.com/pedrokawan1122">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrokawan1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokawan1122&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css.png" width="120" alt="CSS">
+  <img src="https://img.icons8.com/color/2x/git.png" width="120" alt="git">
+  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+</table>
 
-   
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,git,c#" />
-  </a>
-</p>
-  
-<div align="center"> 
-  <a href="https://www.instagram.com/_pedro.souz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<div> 
+  <a href="https://www.instagram.com/_leehxd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/leehxd_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto: pedrokawan061122@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
